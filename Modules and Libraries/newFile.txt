@@ -1,0 +1,2 @@
+I am learning to use files
+I using a path variable

@@ -1,0 +1,2 @@
+This is the list of prices for our services
+['25', '22', '15', '5']

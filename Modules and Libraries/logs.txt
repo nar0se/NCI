@@ -1,0 +1,5 @@
+User carlos tried to log in on 2021-04-26 12:29:04.884884 - Result: Success
+User carlos tried to log in on 2021-04-26 12:29:30.164609 - Result: Failed
+User carlos tried to log in on 2021-04-26 12:29:49.729980 - Result: Success
+User carlos  tried to log in on 2021-04-26 12:31:21.542816 - Result: Failed
+User calors tried to log in on 2021-04-26 12:31:44.673801 - Result: Failed
